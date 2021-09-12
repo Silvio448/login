@@ -1,7 +1,10 @@
-body{
+/*body{
     font-family: Arial, Helvetica, sans-serif;
     background-image: linear-gradient(45deg, cyan, yellow);
-}
+}*/
+body {
+    background: #FFFFFF url("praia.jpeg");
+  }
 div{
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute;
